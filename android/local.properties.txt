@@ -1,0 +1,1 @@
+sdk.dir = Users\karak\AppData\Local\Android\sdk
